@@ -1,0 +1,23 @@
+body {
+  background-image: url("beautiful-day-at-the-beach.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow-y: hidden;
+  height: 100vh;
+}
+.container {
+  border: 2px solid black;
+  border-radius: 30px;
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+.weather-info {
+  font-size: 18px;
+}
